@@ -1,4 +1,4 @@
-# Techxenia
+# TechxeniaのGitHubにようこそ！
 
 Hi there!
 

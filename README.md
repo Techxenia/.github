@@ -1,6 +1,7 @@
 # Techxenia
 
 Hi there!
+
 ![gif](https://github.com/Techxenia/Techxenia/blob/main/material/logo.png)
 
 ## 概要（Overview）

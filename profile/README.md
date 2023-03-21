@@ -9,6 +9,7 @@ Hi there!
 「Techxenia」の公式GitHubアカウントです！  
 Twitterなどで紹介するツールや小ネタなどを公開しています。  
 
+[discord](https://discord.com/invite/XGnyrKCJmJ)  
 [twitter](https://twitter.com/techxenia_jp)
 
 ## 公開しているデータのライセンスについて

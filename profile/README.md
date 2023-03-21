@@ -15,7 +15,7 @@ Twitterなどで紹介するツールや小ネタなどを公開しています�
 ## 公開しているデータのライセンスについて
 - jp
   - ソースコードはMITライセンスです。
-  - ウェブサイトとGitHubプロフィール（この画面）のコンテンツは[CCライセンス](https://github.com/Techxenia/Techxenia/blob/main/profile/LICENSE.txt)です
+  - ウェブサイト（このアカウント上）のコンテンツは[CCライセンス](https://github.com/Techxenia/Techxenia/blob/main/profile/LICENSE.txt)です
 - en
   - The source code is licensed MIT.
   - The website content is licensed CC BY 4.0,see [LICENSE](https://github.com/Techxenia/Techxenia/blob/main/profile/LICENSE.txt).
